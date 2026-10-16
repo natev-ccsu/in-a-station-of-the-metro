@@ -11,12 +11,11 @@ body {
 }
 
 .page {
-  width: 1360px;
+  width: auto;
   min-height: 100vh;
-  margin: 0 auto;
+  margin: 0;
   padding: 30px 24px 24px;
-  background: #e6d9c1;
-  border: 1px solid rgba(0, 0, 0, 0.75);
+  background: transparent;
 }
 
 .masthead {
